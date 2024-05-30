@@ -10,7 +10,7 @@ func main(){
 //        var i int = 1
     // 定义一个变量接收这个和
     var sum int = 0
-    for var i int = 1 ; i < 6 ; i++ {
+    for i := 1 ; i < 6 ; i++{
     sum += i
     }
 
