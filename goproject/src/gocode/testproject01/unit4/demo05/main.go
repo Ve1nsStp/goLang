@@ -13,7 +13,6 @@ func main(){
     for i := 1 ; i < 6 ; i++{
     sum += i
     }
-
     // 输出结果
     fmt.Println(sum)
 }
